@@ -55,3 +55,83 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/*.iws
+/out/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Spring Boot
+/*.log
+/spring.log
+
+# Hibernate
+*.hbm.xml
+
+# Database
+*.mv.db
+*.h2.db
+*.db
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Eclipse
+/.settings/
+/.metadata/
+/.classpath
+/.project
+/.recommenders
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# JRebel
+rebel.xml
+
+# Temporary files
+*.tmp
+*.swp
+*.swo

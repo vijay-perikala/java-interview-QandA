@@ -1,6 +1,8 @@
 # Senior Java Developer - Interview Topics
 
 A comprehensive list of interview topics for a 10-year senior Java developer.
+## 0. Pre Required Topics 
+- Git
 
 ## 1. Core Java
 - Multithreading and Concurrency
